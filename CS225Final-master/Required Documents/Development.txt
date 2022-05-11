@@ -1,0 +1,36 @@
+Week 11/23 - 11/29
+
+what we've done :
+ Pseudo code write out (view attached document on github named pseudo code)\
+
+
+Week 11/30 - 12/06
+
+What we've done :
+
+Wrote out BFS_Traversal and AVL_TREE. 
+
+To Do:
+
+1. PageRank algorithm
+2. Dijkstra's algorithm
+3. main file (using the dataset to actually procure results)
+4. create test cases to verify results
+5. Compiler errors/ figuring out how to compile the executable
+
+Week 12/07 - 12/11
+
+What we've done :
+
+Finished BFS_Traversal using AVL_TREE
+
+Finished Dijkstra Algorithm using Graph
+
+Finished PageRank Algorithm using Graph
+
+Finished a function to parse the Data into a graph
+
+Generated test cases using txt files
+
+Tested on EWS to make sure the code runs
+

@@ -1,0 +1,240 @@
+1928_Okeechobee_Hurricane
+    => 18th_century       edge label = ""           weight = 2
+    => 1896_Summer_Olympics edge label = ""           weight = 3
+    => 1755_Lisbon_earthquake edge label = ""           weight = 3
+    => 14th_century       edge label = ""           weight = 3
+    => 16th_century       edge label = ""           weight = 3
+    => 16_Cygni_Bb        edge label = ""           weight = 6
+    => 13th_century       edge label = ""           weight = 3
+    => 15th_century       edge label = ""           weight = 3
+    => 11th_century       edge label = ""           weight = 3
+    => 15th_Marine_Expeditionary_Unit edge label = ""           weight = 4
+    => 17th_century       edge label = ""           weight = 2
+    => 16_Cygni           edge label = ""           weight = 5
+    => 12th_century       edge label = ""           weight = 3
+    => 10th_century       edge label = ""           weight = 3
+
+18th_century
+    => 1928_Okeechobee_Hurricane edge label = ""           weight = 2
+    => 1896_Summer_Olympics edge label = ""           weight = 3
+    => 1755_Lisbon_earthquake edge label = ""           weight = 1
+    => 14th_century       edge label = ""           weight = 1
+    => 16th_century       edge label = ""           weight = 1
+    => 16_Cygni_Bb        edge label = ""           weight = 5
+    => 13th_century       edge label = ""           weight = 1
+    => 15th_century       edge label = ""           weight = 1
+    => 11th_century       edge label = ""           weight = 1
+    => 15th_Marine_Expeditionary_Unit edge label = ""           weight = 3
+    => 17th_century       edge label = ""           weight = 1
+    => 16_Cygni           edge label = ""           weight = 4
+    => 12th_century       edge label = ""           weight = 1
+    => 10th_century       edge label = ""           weight = 1
+
+1896_Summer_Olympics
+    => 1928_Okeechobee_Hurricane edge label = ""           weight = 3
+    => 18th_century       edge label = ""           weight = 3
+    => 1755_Lisbon_earthquake edge label = ""           weight = 3
+    => 14th_century       edge label = ""           weight = 2
+    => 16th_century       edge label = ""           weight = 2
+    => 16_Cygni_Bb        edge label = ""           weight = 6
+    => 13th_century       edge label = ""           weight = 3
+    => 15th_century       edge label = ""           weight = 2
+    => 11th_century       edge label = ""           weight = 2
+    => 15th_Marine_Expeditionary_Unit edge label = ""           weight = 4
+    => 17th_century       edge label = ""           weight = 2
+    => 16_Cygni           edge label = ""           weight = 5
+    => 12th_century       edge label = ""           weight = 3
+    => 10th_century       edge label = ""           weight = 2
+
+1755_Lisbon_earthquake
+    => 1928_Okeechobee_Hurricane edge label = ""           weight = 3
+    => 18th_century       edge label = ""           weight = 1
+    => 1896_Summer_Olympics edge label = ""           weight = 3
+    => 14th_century       edge label = ""           weight = 3
+    => 16th_century       edge label = ""           weight = 2
+    => 16_Cygni_Bb        edge label = ""           weight = 6
+    => 13th_century       edge label = ""           weight = 2
+    => 15th_century       edge label = ""           weight = 2
+    => 11th_century       edge label = ""           weight = 3
+    => 15th_Marine_Expeditionary_Unit edge label = ""           weight = 4
+    => 17th_century       edge label = ""           weight = 2
+    => 16_Cygni           edge label = ""           weight = 5
+    => 12th_century       edge label = ""           weight = 3
+    => 10th_century       edge label = ""           weight = 2
+
+14th_century
+    => 1928_Okeechobee_Hurricane edge label = ""           weight = 3
+    => 18th_century       edge label = ""           weight = 1
+    => 1896_Summer_Olympics edge label = ""           weight = 2
+    => 1755_Lisbon_earthquake edge label = ""           weight = 3
+    => 16th_century       edge label = ""           weight = 1
+    => 16_Cygni_Bb        edge label = ""           weight = 3
+    => 13th_century       edge label = ""           weight = 1
+    => 15th_century       edge label = ""           weight = 1
+    => 11th_century       edge label = ""           weight = 2
+    => 15th_Marine_Expeditionary_Unit edge label = ""           weight = 3
+    => 17th_century       edge label = ""           weight = 1
+    => 16_Cygni           edge label = ""           weight = 3
+    => 12th_century       edge label = ""           weight = 2
+    => 10th_century       edge label = ""           weight = 2
+
+16th_century
+    => 1928_Okeechobee_Hurricane edge label = ""           weight = 3
+    => 18th_century       edge label = ""           weight = 1
+    => 1896_Summer_Olympics edge label = ""           weight = 2
+    => 1755_Lisbon_earthquake edge label = ""           weight = 2
+    => 16_Cygni_Bb        edge label = ""           weight = 5
+    => 13th_century       edge label = ""           weight = 1
+    => 15th_century       edge label = ""           weight = 1
+    => 11th_century       edge label = ""           weight = 1
+    => 15th_Marine_Expeditionary_Unit edge label = ""           weight = 4
+    => 17th_century       edge label = ""           weight = 1
+    => 16_Cygni           edge label = ""           weight = 4
+    => 12th_century       edge label = ""           weight = 1
+    => 14th_century       edge label = ""           weight = 1
+    => 10th_century       edge label = ""           weight = 1
+
+16_Cygni_Bb
+    => 1928_Okeechobee_Hurricane edge label = ""           weight = 6
+    => 18th_century       edge label = ""           weight = 5
+    => 1896_Summer_Olympics edge label = ""           weight = 6
+    => 1755_Lisbon_earthquake edge label = ""           weight = 6
+    => 14th_century       edge label = ""           weight = 3
+    => 16th_century       edge label = ""           weight = 5
+    => 13th_century       edge label = ""           weight = 3
+    => 15th_century       edge label = ""           weight = 3
+    => 11th_century       edge label = ""           weight = 3
+    => 15th_Marine_Expeditionary_Unit edge label = ""           weight = 4
+    => 17th_century       edge label = ""           weight = 5
+    => 16_Cygni           edge label = ""           weight = 1
+    => 12th_century       edge label = ""           weight = 3
+    => 10th_century       edge label = ""           weight = 3
+
+13th_century
+    => 1928_Okeechobee_Hurricane edge label = ""           weight = 3
+    => 18th_century       edge label = ""           weight = 1
+    => 1896_Summer_Olympics edge label = ""           weight = 3
+    => 1755_Lisbon_earthquake edge label = ""           weight = 2
+    => 14th_century       edge label = ""           weight = 1
+    => 16th_century       edge label = ""           weight = 1
+    => 16_Cygni_Bb        edge label = ""           weight = 3
+    => 15th_century       edge label = ""           weight = 1
+    => 11th_century       edge label = ""           weight = 2
+    => 15th_Marine_Expeditionary_Unit edge label = ""           weight = 3
+    => 17th_century       edge label = ""           weight = 1
+    => 16_Cygni           edge label = ""           weight = 3
+    => 12th_century       edge label = ""           weight = 1
+    => 10th_century       edge label = ""           weight = 2
+
+15th_century
+    => 1928_Okeechobee_Hurricane edge label = ""           weight = 3
+    => 18th_century       edge label = ""           weight = 1
+    => 1896_Summer_Olympics edge label = ""           weight = 2
+    => 1755_Lisbon_earthquake edge label = ""           weight = 2
+    => 14th_century       edge label = ""           weight = 1
+    => 16th_century       edge label = ""           weight = 1
+    => 16_Cygni_Bb        edge label = ""           weight = 3
+    => 11th_century       edge label = ""           weight = 1
+    => 15th_Marine_Expeditionary_Unit edge label = ""           weight = 4
+    => 17th_century       edge label = ""           weight = 1
+    => 16_Cygni           edge label = ""           weight = 3
+    => 12th_century       edge label = ""           weight = 1
+    => 13th_century       edge label = ""           weight = 1
+    => 10th_century       edge label = ""           weight = 1
+
+11th_century
+    => 1928_Okeechobee_Hurricane edge label = ""           weight = 3
+    => 18th_century       edge label = ""           weight = 1
+    => 1896_Summer_Olympics edge label = ""           weight = 2
+    => 1755_Lisbon_earthquake edge label = ""           weight = 3
+    => 14th_century       edge label = ""           weight = 2
+    => 16th_century       edge label = ""           weight = 1
+    => 16_Cygni_Bb        edge label = ""           weight = 3
+    => 13th_century       edge label = ""           weight = 2
+    => 15th_century       edge label = ""           weight = 1
+    => 15th_Marine_Expeditionary_Unit edge label = ""           weight = 3
+    => 17th_century       edge label = ""           weight = 1
+    => 16_Cygni           edge label = ""           weight = 3
+    => 12th_century       edge label = ""           weight = 1
+    => 10th_century       edge label = ""           weight = 1
+
+15th_Marine_Expeditionary_Unit
+    => 1928_Okeechobee_Hurricane edge label = ""           weight = 4
+    => 18th_century       edge label = ""           weight = 3
+    => 1896_Summer_Olympics edge label = ""           weight = 4
+    => 1755_Lisbon_earthquake edge label = ""           weight = 4
+    => 14th_century       edge label = ""           weight = 3
+    => 16th_century       edge label = ""           weight = 4
+    => 16_Cygni_Bb        edge label = ""           weight = 4
+    => 13th_century       edge label = ""           weight = 3
+    => 15th_century       edge label = ""           weight = 4
+    => 17th_century       edge label = ""           weight = 3
+    => 16_Cygni           edge label = ""           weight = 5
+    => 11th_century       edge label = ""           weight = 3
+    => 12th_century       edge label = ""           weight = 3
+    => 10th_century       edge label = ""           weight = 3
+
+17th_century
+    => 1928_Okeechobee_Hurricane edge label = ""           weight = 2
+    => 18th_century       edge label = ""           weight = 1
+    => 1896_Summer_Olympics edge label = ""           weight = 2
+    => 1755_Lisbon_earthquake edge label = ""           weight = 2
+    => 14th_century       edge label = ""           weight = 1
+    => 16th_century       edge label = ""           weight = 1
+    => 16_Cygni_Bb        edge label = ""           weight = 5
+    => 13th_century       edge label = ""           weight = 1
+    => 15th_century       edge label = ""           weight = 1
+    => 11th_century       edge label = ""           weight = 1
+    => 15th_Marine_Expeditionary_Unit edge label = ""           weight = 3
+    => 16_Cygni           edge label = ""           weight = 4
+    => 12th_century       edge label = ""           weight = 1
+    => 10th_century       edge label = ""           weight = 1
+
+16_Cygni
+    => 1928_Okeechobee_Hurricane edge label = ""           weight = 5
+    => 18th_century       edge label = ""           weight = 4
+    => 1896_Summer_Olympics edge label = ""           weight = 5
+    => 1755_Lisbon_earthquake edge label = ""           weight = 5
+    => 14th_century       edge label = ""           weight = 3
+    => 16th_century       edge label = ""           weight = 4
+    => 16_Cygni_Bb        edge label = ""           weight = 1
+    => 13th_century       edge label = ""           weight = 3
+    => 15th_century       edge label = ""           weight = 3
+    => 11th_century       edge label = ""           weight = 3
+    => 15th_Marine_Expeditionary_Unit edge label = ""           weight = 5
+    => 17th_century       edge label = ""           weight = 4
+    => 12th_century       edge label = ""           weight = 3
+    => 10th_century       edge label = ""           weight = 3
+
+12th_century
+    => 1928_Okeechobee_Hurricane edge label = ""           weight = 3
+    => 18th_century       edge label = ""           weight = 1
+    => 1896_Summer_Olympics edge label = ""           weight = 3
+    => 1755_Lisbon_earthquake edge label = ""           weight = 3
+    => 14th_century       edge label = ""           weight = 2
+    => 16th_century       edge label = ""           weight = 1
+    => 16_Cygni_Bb        edge label = ""           weight = 3
+    => 13th_century       edge label = ""           weight = 1
+    => 15th_century       edge label = ""           weight = 1
+    => 11th_century       edge label = ""           weight = 1
+    => 15th_Marine_Expeditionary_Unit edge label = ""           weight = 3
+    => 17th_century       edge label = ""           weight = 1
+    => 16_Cygni           edge label = ""           weight = 3
+    => 10th_century       edge label = ""           weight = 1
+
+10th_century
+    => 1928_Okeechobee_Hurricane edge label = ""           weight = 3
+    => 18th_century       edge label = ""           weight = 1
+    => 1896_Summer_Olympics edge label = ""           weight = 2
+    => 1755_Lisbon_earthquake edge label = ""           weight = 2
+    => 14th_century       edge label = ""           weight = 2
+    => 16th_century       edge label = ""           weight = 1
+    => 16_Cygni_Bb        edge label = ""           weight = 3
+    => 13th_century       edge label = ""           weight = 2
+    => 15th_century       edge label = ""           weight = 1
+    => 11th_century       edge label = ""           weight = 1
+    => 15th_Marine_Expeditionary_Unit edge label = ""           weight = 3
+    => 17th_century       edge label = ""           weight = 1
+    => 16_Cygni           edge label = ""           weight = 3
+    => 12th_century       edge label = ""           weight = 1
+

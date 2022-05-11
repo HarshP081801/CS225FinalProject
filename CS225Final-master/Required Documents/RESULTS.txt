@@ -1,0 +1,57 @@
+#results
+
+
+Our results:
+
+Our initial goals were to use IMDB's data sets to generate A BFS_Traversal, A Dijkstra's shortest Path algorithm and the Landmark Algorithm.
+
+However, the dataset was pretty difficult to work with and could not be used to produce the results we desired.
+
+ Therefore we transitioned to the data set found in this link http://snap.stanford.edu/data/wikispeedia.html.
+
+The data set revolves around a common game called wikispeedia.
+
+In essence, wikispeedia is a game where users are asked to navigate from a given source to a given target article, by only clicking links.
+
+In using this dataset, we decided to switch some goals : Instead of a landmark path, we decided on generating the page rank algorithm.
+
+Much to our pleasure, we were able to successfully generate the BFS_Traversal, the Dijkstra Algorithm and the path rank algorithm.
+ 
+
+#BFS_Traversal
+
+For the BFS_Traversal, the procedure was pretty standard and we simply implemented the code provided to us by lab_avl and construed our own code.
+
+For the traversal itself, we used a standard queue to keep track of all the nodes and simply procured the nodes in order.
+
+When assigning articles to nodes, we used a simple integer to represent the position rank that the article was inserted. 
+
+Therefore, the articles were given a position equal to the position they were listed in the document.
+
+
+#Dijkstra
+
+For the Dijkstra Algorithm, the process was a bit more difficult. We implemented the function in the graph files. In order to succesfully 
+
+perform the algorithm, we created three vectors to store certain data: one for the distance, one for keeping track of what we've visited, and
+
+one to keep track of edges. We iterated through the graph generated from our data and stored the shortest distances within the dist vector
+
+and once we had found the shortest path to each other vertex from our source, we printed it to the output file outputDijkstra.
+
+
+#PageRank
+
+For the PageRank Algorithm, we kept track of which vertices were connected to determine the rank of that webpage.Initially Each vertex
+
+would be assigned a rank of 1/N where N was the number of vertices. When the update step occured, we would give each page a fresh rank
+ 
+of 0.0 to stimulate the expected behavior of web surfers. Then we would take the old page rank for every web page and equally share it
+
+with vertices it links to. This process would use the formula : d x (old page rank) / (number of unique links) where d is the decay
+
+factor. Additionally, if the web page has no edges, we assume that the surfers jump to a random webpage and thus we increase the new
+
+page rank of every webpage by d x (old page rank) / N. Finally, we add (1 - d) / N to every web page's new page rank to account for
+
+the fact that we dont lose web surfers when we apply the decay factor.
